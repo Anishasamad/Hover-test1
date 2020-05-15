@@ -15,10 +15,17 @@ nav div
 }
 div .icon
 {
-  font-size: 20px;
   padding-left: 25px;
   padding-right: 10px;
   padding-top: 10px;
+}
+i
+{
+  font-size: 15px;
+}
+p
+{
+  font-size: 10px;
 }
 .icon:hover
 {
